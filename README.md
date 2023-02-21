@@ -1,10 +1,10 @@
 
 [![MasterHead](https://www.viajaquepassa.com.br/wp-content/uploads/2021/06/Parque_Lage_Rio_de_Janeiro.jpg)](https://github.com/tamiressbrito)
-<img WIDTH=200 HEIGHT=200>
+<img WIDTH=500 HEIGHT=50>
 
-# Olá, sou a Tamires Brito! 🥰
+# Olá, sou a Tamires Brito! 🌻
 
-## Bem vindo ao meu perfil 🫰
+## Bem vindo ao meu perfil 🫰🥰
 
 _Sou carioca e atualmente integro o Programa de Residência em Ciência de Dados e Inteligência Artificial do SENAI (PR), atuando como Cientista de Dados e Scrum Master._ </br></br>
 
