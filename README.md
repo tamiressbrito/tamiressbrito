@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil 👋
 
-_Sou carioca e atualmente integro o Programa de Residência em Ciência de Dados e Inteligência Artificial do SENAI (PR), atuando como Residente e Scrum Master._ </br></br>
+_Sou carioca e atualmente integro o Programa de Residência em Ciência de Dados e Inteligência Artificial do SENAI (PR), atuando como Cientista de Dados e Scrum Master._ </br></br>
 
 ## Formação Acadêmica:
 
