@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @tamiressbrito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá, sou a Tamires Brito! 
 
-<!---
-tamiressbrito/tamiressbrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Bem vindo ao meu perfil 👋
+
+_Sou carioca e atualmente integro o Programa de Residência em Ciência de Dados e Inteligência Artificial do SENAI (PR), atuando como Residente e Scrum Master._ </br></br>
+
+## Formação Acadêmica:
+
+* Pós Graduação em Ciência de Dados - Centro Universitário Carioca (UNICARIOCA)
+* Pós Graduação em Gestão Estratégica de Processos e Negócios - Pontifícia Universidade Católica (PUC) 
+* Graduação em Administração - Centro Universitário Carioca - (UNICARIOCA)
+
+</br>
+ 
+_Mais sobre mim:_
+
+([Linkedin](https://www.linkedin.com/in/tamiresbrito))
+
+
+
+
+
+
