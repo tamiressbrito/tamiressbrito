@@ -4,7 +4,7 @@
 
 </h1>   
 
-# Olá, sou a Tamires Brito! 🌻
+# Olá, sou a Tamires Brito! 🤗🌻
 
 ## Bem vindo ao meu perfil 🫰🥰
 
@@ -23,6 +23,5 @@ _Mais sobre mim:_
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tamiresbrito/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tamires_brito/)
 
 
-
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1000/1*1C3GnoY-FzhqzL0MzTlWyQ.gif">
 
