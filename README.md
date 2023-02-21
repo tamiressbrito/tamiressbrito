@@ -1,7 +1,8 @@
-<h1 align="center"
-     width="350" height="150">
-[![MasterHead](https://www.viajaquepassa.com.br/wp-content/uploads/2021/06/Parque_Lage_Rio_de_Janeiro.jpg)](https://github.com/tamiressbrito)
+<h1 align="center">
     
+[![MasterHead](https://www.viajaquepassa.com.br/wp-content/uploads/2021/06/Parque_Lage_Rio_de_Janeiro.jpg)](https://github.com/tamiressbrito)
+
+</h1>   
 
 # Olá, sou a Tamires Brito! 🌻
 
