@@ -1,10 +1,10 @@
 
 [![MasterHead](https://uploads.jovemnerd.com.br/wp-content/uploads/2018/01/harry-potter-cruzeiro.png)](https://github.com/tamiressbrito)
-<IMG ALT=50 WIDTH=50 HEIGHT=50>
+<WIDTH=200 HEIGHT=200>
 
-# Olá, sou a Tamires Brito! 
+# Olá, sou a Tamires Brito! 🥰
 
-## Bem vindo ao meu perfil 👋
+## Bem vindo ao meu perfil 🫰
 
 _Sou carioca e atualmente integro o Programa de Residência em Ciência de Dados e Inteligência Artificial do SENAI (PR), atuando como Cientista de Dados e Scrum Master._ </br></br>
 
