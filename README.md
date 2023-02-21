@@ -1,5 +1,5 @@
 
-[![MasterHead](https://vejasp.abril.com.br/wp-content/uploads/2016/11/24801_materia-hogwarts-3.jpeg?quality=70&strip=info&w=680&h=453&crop=1)](https://github.com/tamiressbrito)
+[![MasterHead](https://uploads.jovemnerd.com.br/wp-content/uploads/2018/01/harry-potter-cruzeiro.png)](https://github.com/tamiressbrito)
 <IMG ALT=50 WIDTH=50 HEIGHT=50>
 
 # Olá, sou a Tamires Brito! 
