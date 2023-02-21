@@ -1,6 +1,6 @@
 
-[![MasterHead](https://uploads.jovemnerd.com.br/wp-content/uploads/2018/01/harry-potter-cruzeiro.png)](https://github.com/tamiressbrito)
-<WIDTH=200 HEIGHT=200>
+[![MasterHead](https://www.viajaquepassa.com.br/wp-content/uploads/2021/06/Parque_Lage_Rio_de_Janeiro.jpg)](https://github.com/tamiressbrito)
+<img WIDTH=200 HEIGHT=200>
 
 # Olá, sou a Tamires Brito! 🥰
 
