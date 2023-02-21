@@ -1,6 +1,6 @@
 
-[![MasterHead](https://matriculas.estacio.br/blog/wp-content/uploads/2020/02/30est01-ciencia-dados.jpg)](https://github.com/tamiressbrito)
-img = width:100%
+[![MasterHead](https://vejasp.abril.com.br/wp-content/uploads/2016/11/24801_materia-hogwarts-3.jpeg?quality=70&strip=info&w=680&h=453&crop=1)](https://github.com/tamiressbrito)
+<IMG SRC="https://vejasp.abril.com.br/wp-content/uploads/2016/11/24801_materia-hogwarts-3.jpeg?quality=70&strip=info&w=680&h=453&crop=1" ALT=50 WIDTH=100 HEIGHT=100>
 
 # Olá, sou a Tamires Brito! 
 
