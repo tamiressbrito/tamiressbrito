@@ -12,6 +12,7 @@ _Sou carioca e atualmente integro o Programa de Residência em Ciência de Dados
 
 ## Formação Acadêmica:
 
+* Especialização em Inteligência Artificial - Serviço Nacional de Aprendizagem Industrial (SENAI)
 * Pós Graduação em Ciência de Dados - Centro Universitário Carioca (UNICARIOCA)
 * Pós Graduação em Gestão Estratégica de Processos e Negócios - Pontifícia Universidade Católica (PUC) 
 * Graduação em Administração - Centro Universitário Carioca - (UNICARIOCA)
